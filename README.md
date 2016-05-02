@@ -1,2 +1,5 @@
-# HappyBirthdayRuby
-Demo app for Ruby tutorial
+Learning Rails 
+==
+
+Learning Rails with a tutorial from the RailsApps project.
+
